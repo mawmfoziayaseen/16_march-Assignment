@@ -20,23 +20,24 @@
     outline: 25px solid gray;
 }
 #para{
-    text-align: center;
+    /* text-align: center; */
     margin-top: 50px;
+    margin-left: 530px;
 }
 .box{
     display: flex;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 20px;
     justify-content:space-evenly;
 }
 .box1{
     height: 255px;
     width: 100%;
-    margin: 2px;
-    margin-top: 0px;
+    /* margin: 2px;
+    margin-top: 0px; */
     background-size: cover;
-    padding: 10px 7px 9px 0px;
+    padding: 5px 7px 9px 0px;
     border: 2px solid transparent;
 }
 #para2{
