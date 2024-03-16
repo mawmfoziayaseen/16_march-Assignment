@@ -41,7 +41,7 @@ a:hover{`
 }
 .content{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 .box{
     height: 250px;

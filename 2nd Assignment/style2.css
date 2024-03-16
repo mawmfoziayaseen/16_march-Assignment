@@ -25,24 +25,21 @@
 }
 .box{
     display: flex;
-    justify-content:center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+    justify-content:space-evenly;
 }
 .box1{
-        height: 200px;
-        width: 23%;
-        margin: 10px;
-        margin-top: 15px;
-        padding: 10px 33px 41px 13px;
-        border: 2px solid red;
+    height: 255px;
+    width: 100%;
+    margin: 2px;
+    margin-top: 0px;
+    background-size: cover;
+    padding: 10px 7px 9px 0px;
+    border: 2px solid transparent;
 }
-/* .box1{
-    display: inline-block;
-    height: 400px;
-    width: 260px;
-    background-image : url("img/card.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    transition: all .5s ease-in-out;
-    cursor: pointer;
-} */
+#para2{
+    margin-top: 3px;
+    margin-left: 15px;
+}
