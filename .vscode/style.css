@@ -41,13 +41,14 @@ a:hover{`
 }
 .content{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 .box{
     height: 250px;
     width: 31%;
     margin-top: 15px;
     padding: 10px 33px 41px 13px;
+    margin: 10px;
     /* display: flex; */
     border: 2px solid transparent;
 }
