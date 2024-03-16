@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.head{
+    height: 50px;
+    width: 80px;
+    background-color: #3c97bf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px
+}
